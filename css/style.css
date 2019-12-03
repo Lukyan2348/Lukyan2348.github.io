@@ -1,0 +1,69 @@
+.img1 {
+	width: 100%;
+	padding: 7px;
+	text-align: center;
+	float: left;
+	background-color: #000000;
+}
+nav {
+    background-color: black;
+	width: 100%;
+	padding: 7px;
+    float: left;
+    border-bottom: 2px solid #ebebed;
+}
+
+nav a {
+	color: #FFFFFF;
+	font-size: 1.5em;
+	margin-left: 5%;
+}
+
+nav a:hover {
+	color: #ffff00;
+}
+
+nav a:last-child {
+	margin-right: 15px;
+}
+
+#hideMenu {
+	display: inline;
+}
+
+#menuShow {
+	display: inline;
+	font-size: 1.4em;
+	margin-left: 20px;
+	float: left;
+	margin-top: 4px;
+	cursor: pointer;
+}
+
+#mobileMenu {
+	display: none;
+	width: 100%;
+	float: left;
+}
+
+@media (min-width: 996px) {
+	#menuShow {
+		display: none;
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 995px) {
+	#hideMenu {
+		display: none;
+		visibility: hidden;
+	}
+}
+
+#search {
+	display: none;
+}
+
+#zar {
+	text-align: center;
+}
