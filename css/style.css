@@ -31,6 +31,7 @@ body {
   line-height: 1; 
   background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-out-of-focus-spot-black-background-bluestarlightheart-shaped-image_55052.jpg);}
 
+/*My*/
 #first_h {
   font-family: 'Roboto Slab', sans-serif;
   margin-left: 100px;
@@ -50,6 +51,8 @@ body {
   width: 1000px;
   border-radius: 5%;
 }
+
+/*end*/
 
 ol, ul {
   list-style: none; }
