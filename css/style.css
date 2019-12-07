@@ -32,7 +32,8 @@ body {
   background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-out-of-focus-spot-black-background-bluestarlightheart-shaped-image_55052.jpg);}
 
 /*My*/
-#first_h {
+@media (max-width: 899px) {
+  #first_h {
   font-family: 'Roboto Slab', sans-serif;
   margin-left: 100px;
   color: #FFFFF0;
@@ -51,7 +52,24 @@ body {
   width: 1000px;
   border-radius: 5%;
 }
+}
 
+
+@media (min-width: 900px ) {
+  .header_ul {
+    margin-left: 70px;
+}
+
+.glav_i_vk {
+  color: #FFFFF0;
+}
+
+.block {
+  margin-left: 70px;
+  width: 1000px;
+  border-radius: 5%;
+}
+}
 /*end*/
 
 ol, ul {
