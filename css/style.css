@@ -33,7 +33,7 @@ body {
 
 /*My*/
 @media (max-width: 899px) {
-  #first_h {
+#first_h {
   font-family: 'Roboto Slab', sans-serif;
   margin-left: 100px;
   color: #FFFFF0;
@@ -56,7 +56,7 @@ body {
 
 
 @media (min-width: 900px ) {
-    #first_h {
+#first_h {
   font-family: 'Roboto Slab', sans-serif;
   margin-left: 100px;
   color: #FFFFF0;
