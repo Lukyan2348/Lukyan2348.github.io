@@ -56,6 +56,11 @@ body {
 
 
 @media (min-width: 900px ) {
+    #first_h {
+  font-family: 'Roboto Slab', sans-serif;
+  margin-left: 100px;
+  color: #FFFFF0;
+}
   .header_ul {
     margin-left: 70px;
 }
