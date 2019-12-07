@@ -62,7 +62,7 @@ body {
 }
 
 .header_ul {
-    margin-left: 30px;
+    margin-left: 10px;
 }
 
 .glav_i_vk {
@@ -70,7 +70,7 @@ body {
 }
 
 .block {
-  margin-left: 70px;
+  margin-left: 10px;
   width: 1000px;
   border-radius: 5%;
 }
