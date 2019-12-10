@@ -32,29 +32,6 @@ body {
   background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-out-of-focus-spot-black-background-bluestarlightheart-shaped-image_55052.jpg);}
 
 /*My*/
-@media (max-width: 899px) and (min-width: 601px) {
-  #first_h {
-  font-family: 'Roboto Slab', sans-serif;
-  margin-left: 100px;
-  color: #FFFFF0;
-}
-
-.header_ul {
-    margin-left: 30px;
-}
-
-.glav_i_vk {
-  color: #FFFFF0;
-}
-
-.block {
-  margin-left: 70px;
-  width: 1000px;
-  border-radius: 5%;
-}
-}
-
-@media (max-width: 600px){
 #first_h {
   font-family: 'Roboto Slab', sans-serif;
   margin-left: 100px;
@@ -62,28 +39,6 @@ body {
 }
 
 .header_ul {
-    margin-left: 10px;
-}
-
-.glav_i_vk {
-  color: #FFFFF0;
-}
-
-.block {
-  margin-left: 10px;
-  width: 1000px;
-  border-radius: 5%;
-}
-}
-
-
-@media (min-width: 900px ) {
-#first_h {
-  font-family: 'Roboto Slab', sans-serif;
-  margin-left: 100px;
-  color: #FFFFF0;
-}
-  .header_ul {
     margin-left: 70px;
 }
 
@@ -92,11 +47,79 @@ body {
 }
 
 .block {
-  margin-left: 70px;
+  float: left;
+  margin-left: 10px;
   width: 1000px;
   border-radius: 5%;
 }
+
+@media (min-width: 900px) {
+#first_h {
+  font-family: 'Roboto Slab', sans-serif;
+  margin-left: 100px;
+  color: #FFFFF0;
 }
+
+.header_ul {
+    margin-left: 50px;
+}
+
+.glav_i_vk {
+  color: #FFFFF0;
+}
+
+.block {
+  float: left;
+  margin-left: 20px;
+  width: 500px;
+  border-radius: 5%;
+}
+}
+
+@media (max-width: 899px) and (min-width: 601px) {
+  #first_h {
+  font-family: 'Roboto Slab', sans-serif;
+  margin-left: 100px;
+  color: #FFFFF0;
+}
+
+.header_ul {
+    margin-left: 20px;
+}
+
+.glav_i_vk {
+  color: #FFFFF0;
+}
+
+.block {
+  margin-left: 20px;
+  width: 500px;
+  border-radius: 5%;
+}
+}
+
+@media (max-width: 600px){
+#first_h {
+  font-family: 'Roboto Slab', sans-serif;
+  margin-left: 150px;
+  color: #FFFFF0;
+}
+
+.header_ul {
+    margin-left: 4px;
+}
+
+.glav_i_vk {
+  color: #FFFFF0;
+}
+
+.block {
+  margin-left: 10px;
+  width: 100%;
+  border-radius: 5%;
+}
+}
+
 /*end*/
 
 ol, ul {
