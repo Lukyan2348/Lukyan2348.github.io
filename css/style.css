@@ -66,6 +66,11 @@ body {
     text-align: center;
 }
 
+.all_wht {
+    color: white;
+}
+
+
 ol, ul {
   list-style: none; }
 
