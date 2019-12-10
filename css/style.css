@@ -39,7 +39,8 @@ body {
 }
 
 .header_ul {
-    margin-left: 70px;
+    display: block;
+    text-align: center;
 }
 
 .glav_i_vk {
