@@ -52,6 +52,11 @@ body {
   width: 100%;
   border-radius: 5%;
 }
+@media (max-width: 600px) { 
+.head_li {
+    margin-left: 3px;
+}
+}
 
 /*end*/
 
