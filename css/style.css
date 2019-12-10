@@ -53,8 +53,8 @@ body {
   border-radius: 5%;
 }
 @media (max-width: 992px) { 
-.head_li {
-    margin-left: 3px;
+#head_container {
+    margin-left: 10px;
 }
 }
 
