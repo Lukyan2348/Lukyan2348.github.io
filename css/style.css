@@ -28,6 +28,7 @@ footer, header, hgroup, menu, nav, section {
   display: block; }
 
 body {
+  overflow-x:hidden;
   line-height: 1; 
   background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-out-of-focus-spot-black-background-bluestarlightheart-shaped-image_55052.jpg);}
 
