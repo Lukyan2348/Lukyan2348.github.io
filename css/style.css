@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 body {
   overflow-x:hidden;
   line-height: 1;
-  background-image: url("https://cepia.ru/images/u/pages/161/src/novij-god-oboi-na-rabochij-stol-0.jpg");
+  background-image: url(../media/images/year2020.png);
 }
 
 /*My*/
