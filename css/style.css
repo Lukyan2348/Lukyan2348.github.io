@@ -36,6 +36,7 @@ footer, header, hgroup, menu, nav, section {
 .white_body {
   overflow-x:hidden;
   line-height: 1;
+  background-color: white;
 }
 
 /*My*/
