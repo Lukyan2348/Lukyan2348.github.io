@@ -27,10 +27,15 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block; }
 
-body {
+.glav_body {
   overflow-x:hidden;
   line-height: 1;
   background-image: url(../media/images/phon.png);
+}
+
+.white_body {
+  overflow-x:hidden;
+  line-height: 1;
 }
 
 /*My*/
