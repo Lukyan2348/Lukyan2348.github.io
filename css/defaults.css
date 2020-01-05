@@ -1,30 +1,36 @@
 h1 {
   font-size: 48px;
   font-weight: bold;
+  color: white;
 }
 
 h2 {
   font-size: 34px;
   font-weight: bold;
+  color: white;
 }
 
 h3 {
   font-size: 20px;
   font-weight: bold;
+  color: white;
 }
 
 h4 {
   font-size: 16px;
   font-weight: bold;
+  color: white;
 }
 
 h5 {
   font-size: 14px;
   font-weight: bold;
+  color: white;
 }
 
 h6 {
   font-size: 12px;
   font-weight: bold;
+  color: white;
 }
 /*# sourceMappingURL=defaults.css.map */
