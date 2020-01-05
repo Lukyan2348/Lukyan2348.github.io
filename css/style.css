@@ -87,16 +87,13 @@ body {
   background-image: url(../media/images/phon.png);
 }
 
-.first_h {
-  color: white;
-}
-
 #header {
   margin-bottom: 25px;
 }
 
 #header .header__top {
   padding: 37px 0;
+  color: white;
 }
 
 #header .header__top .header__top__logo {
