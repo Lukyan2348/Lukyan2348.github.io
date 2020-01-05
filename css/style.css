@@ -87,6 +87,10 @@ body {
   background-image: url(../media/images/phon.png);
 }
 
+.first_h {
+  color: white;
+}
+
 #header {
   margin-bottom: 25px;
 }
